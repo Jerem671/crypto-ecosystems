@@ -17,6 +17,7 @@
 - Discussion Period
 - Voting Period
 - Grace Period
+- Queue Period
 
 ## Treasury Management
 - Multi-sig
