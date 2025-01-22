@@ -14,6 +14,7 @@
 - Execution Delay
 - Timelock
 - Quorum
+- Discussion Period
 
 ## Treasury Management
 - Multi-sig
