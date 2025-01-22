@@ -5,6 +5,7 @@
 - Delegation System
 - Vote Escrow
 - Token Weighted
+- Holographic Consensus
 
 ## Proposal System
 - Creation
