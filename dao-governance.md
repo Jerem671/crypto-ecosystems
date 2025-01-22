@@ -15,6 +15,7 @@
 - Timelock
 - Quorum
 - Discussion Period
+- Voting Period
 
 ## Treasury Management
 - Multi-sig
