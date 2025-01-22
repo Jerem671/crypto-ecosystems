@@ -6,6 +6,7 @@
 - Vote Escrow
 - Token Weighted
 - Holographic Consensus
+- Conviction Voting
 
 ## Proposal System
 - Creation
