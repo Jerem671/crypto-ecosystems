@@ -5,3 +5,4 @@
 - DCA strategy
 - Grid trading
 - Momentum trading
+- Arbitrage
