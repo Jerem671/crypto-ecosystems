@@ -4,3 +4,4 @@
 - Take profit
 - DCA strategy
 - Grid trading
+- Momentum trading
