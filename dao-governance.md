@@ -4,6 +4,7 @@
 - Quadratic Voting
 - Delegation System
 - Vote Escrow
+- Token Weighted
 
 ## Proposal System
 - Creation
