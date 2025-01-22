@@ -1,0 +1,15 @@
+# Polkadot Ecosystem Mapping
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate"
+
+[[repo]]
+url = "https://github.com/paritytech/ink"
+
+[ecosystem]
+name = "Polkadot"
+title = "Multi-chain Network"
+technology_type = "blockchain"
