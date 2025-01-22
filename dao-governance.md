@@ -13,6 +13,7 @@
 - Creation
 - Execution Delay
 - Timelock
+- Quorum
 
 ## Treasury Management
 - Multi-sig
