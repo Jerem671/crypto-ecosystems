@@ -3,3 +3,4 @@
 - Stop loss
 - Take profit
 - DCA strategy
+- Grid trading
