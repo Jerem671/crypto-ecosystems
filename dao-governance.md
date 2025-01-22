@@ -18,6 +18,7 @@
 - Voting Period
 - Grace Period
 - Queue Period
+- Execution Period
 
 ## Treasury Management
 - Multi-sig
