@@ -11,3 +11,4 @@
 - Mean reversion
 - Trend following
 - Position sizing
+- Risk management
