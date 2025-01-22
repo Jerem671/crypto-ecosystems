@@ -8,3 +8,4 @@
 - Arbitrage
 - Scalping
 - Swing trading
+- Mean reversion
