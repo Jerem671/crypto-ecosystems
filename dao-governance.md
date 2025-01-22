@@ -7,6 +7,7 @@
 - Token Weighted
 - Holographic Consensus
 - Conviction Voting
+- Liquid Democracy
 
 ## Proposal System
 - Creation
