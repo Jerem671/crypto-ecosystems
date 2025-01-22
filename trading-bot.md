@@ -7,3 +7,4 @@
 - Momentum trading
 - Arbitrage
 - Scalping
+- Swing trading
