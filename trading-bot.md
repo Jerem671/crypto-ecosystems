@@ -6,3 +6,4 @@
 - Grid trading
 - Momentum trading
 - Arbitrage
+- Scalping
