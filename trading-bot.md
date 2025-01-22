@@ -9,3 +9,4 @@
 - Scalping
 - Swing trading
 - Mean reversion
+- Trend following
