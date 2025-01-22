@@ -10,3 +10,4 @@
 - Swing trading
 - Mean reversion
 - Trend following
+- Position sizing
