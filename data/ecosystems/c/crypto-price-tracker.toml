@@ -1,0 +1,7 @@
+title = "Crypto Price Tracker"
+
+github_organizations = ["https://github.com/Jerem671"]
+
+[[repo]]
+url = "https://github.com/Jerem671/crypto-price-tracker"
+tags = ["Price Tracking", "Cryptocurrency"]

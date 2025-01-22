@@ -1,0 +1,7 @@
+title = "DeFi Smart Contracts"
+
+github_organizations = ["https://github.com/Jerem671"]
+
+[[repo]]
+url = "https://github.com/Jerem671/defi-smart-contracts"
+tags = ["DeFi", "Smart Contracts"]

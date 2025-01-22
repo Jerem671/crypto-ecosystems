@@ -1,0 +1,7 @@
+title = "Crypto Wallet SDK"
+
+github_organizations = ["https://github.com/Jerem671"]
+
+[[repo]]
+url = "https://github.com/Jerem671/crypto-wallet-sdk"
+tags = ["Wallet", "SDK"]

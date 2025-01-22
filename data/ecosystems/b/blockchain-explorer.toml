@@ -1,0 +1,7 @@
+title = "Blockchain Explorer"
+
+github_organizations = ["https://github.com/Jerem671"]
+
+[[repo]]
+url = "https://github.com/Jerem671/blockchain-explorer"
+tags = ["Blockchain", "Explorer"]
